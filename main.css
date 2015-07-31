@@ -1,0 +1,14 @@
+.card {
+  /*display: none;*/
+  padding: .5rem;
+  padding-top: 1rem;
+  background-color: #ddd;
+  text-align: center;
+  border-radius: 1rem;
+  font-size: 3rem;
+  margin: 1rem;
+}
+
+span {
+  margin: 0 1rem;
+}
